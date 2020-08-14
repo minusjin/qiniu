@@ -6,7 +6,7 @@ server:
 # 七牛云存储
 oss:
   qiniu:
-    domain: http://qeze7275g.hn-bkt.clouddn.com # 访问域名(默认使用七牛云测试域名)
-    accessKey: IOxsjHPFCwO_S-4Ynp8RokzcrXyQ5kufCh4bpfR- # 公钥
-    secretKey: ludEdRgpzxBGTJ1DJmxTIoIZaJks7fs8m0wda_51 # 私钥
-    bucketName: jinoss  #存储空间名称
+    domain: 888888888888888888888 # 访问域名(默认使用七牛云测试域名)
+    accessKey: * # 公钥
+    secretKey: * # 私钥
+    bucketName: *  #存储空间名称
